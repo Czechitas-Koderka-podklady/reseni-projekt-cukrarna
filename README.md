@@ -1,6 +1,6 @@
-# Cukrárna
+# Řešení: Cukrárna
 
-Dobrovolný kol pro kurz Staň se kóderkou od Czechitas. Když ho odevzdáš, koučové ti k němu napíšou zpětnou vazbu. Toto je standardní varianta úkolu, více se dozvíš v sekci Obtížnosti úkolu.
+*Řešení cvičného projektu pro kurz Staň se kóderkou od Czechitas.*
 
 - [Cíl úkolu](#Cíl-úkolu)
 - [Grafické zadání](#Grafické-zadání)
